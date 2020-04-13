@@ -1,0 +1,11 @@
+Inspirado en:
+
+Autor 1
+Autor 2
+...
+.
+.
+.
+Autor n
+
+Fin
